@@ -1,3 +1,3 @@
 # Contributors
 
-* Marco <marhiar@gmail.com>
+* Marco Hidalgo Araya <marhiar@gmail.com>
